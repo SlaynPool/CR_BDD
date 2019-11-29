@@ -1,0 +1,7 @@
+MariaDB [world]> SELECT * FROM city WHERE  CountryCode='FRA';
++------+----------------------+-------------+----------------------+------------+
+| ID   | Name                 | CountryCode | District             | Population |
++------+----------------------+-------------+----------------------+------------+
+| 2974 | Paris                | FRA         | Ãle-de-France        |    2125246 |
+| 2975 | Marseille            | FRA         | Provence-Alpes-CÃ´te  |     798430 |
+| 2976 | Lyon                 | FRA         | RhÃ´ne-Alpes          |     445452 |

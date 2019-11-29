@@ -6,7 +6,7 @@
 \author{Nicolas Vadkerti}
 \usepackage{listings} % Required for inserting code snippets
 \usepackage[usenames,dvipsnames]{color} % Required for specifying custom colors and referring to colors by name
-
+\usepackage{graphicx}
 \definecolor{DarkGreen}{rgb}{0.0,0.4,0.0} % Comment color
 \definecolor{highlight}{RGB}{255,251,204} % Code highlight color
 
@@ -53,13 +53,48 @@ tabsize=2
  Suite  au passage à Debian 10, PHPmyAdmin n'est plus disponnible via les depots de APT, de ce fais, j'ai décidé d'utiliser Adminer, un gestionnaire de DATABASE equivalent, qui a la force d'etre qu'un seul fichier PHP donc très simple de déploiment.
  
  \insertcode{commande/1.txt}{Installation de Adminer }
-
- d
+\newpage
+ \section{Mise en jambes}
+ \subsection{Analyse de la base de test}
+ \subsubsection{Analyser la nature de la base. Combien y a-t-il de tables dans la base?}
+ La base a pour but de stocker des informations sur des pays, On peut voir qu'il ya trois tables dans la base :
+ \insertcode{commande/2.txt}{SHOW TABLES}
+ 
+  \subsubsection{Quelles sont les clefs primaire et secondaire des tables}
+ Si l'on prend l'exemple de la table city :
+ \insertcode{commande/3.txt}{SELECT * FROM city;}
+ La pkey est  ID , et les clés secondaires sont : Name, CountryCode, District, Population.
+ Cependant, les autres tables ont pour pkey : Code pour country et  CountryCode et language pour countrylanguage
  
  
+ \subsection{Requetes de Base}
+ \subsubsection{Donner la liste de toutes les villes françaises}
+  \begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{ressource/1.jpg}
+\caption{Notre requete SQL`}
+\label{fig:paquet}
+\end{figure}
+\subsubsection{Récupérer la liste de toutes les capitales.}
+Pour cette question j'ai trouvé deux solutions :
+
+  \begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{ressource/2.jpg}
+\caption{Solution 2}
+\label{fig:paquet}
+\end{figure}
+
+\includegraphics[scale=0.8]{ressource/3.jpg}
+
+\newpage
 
 
+\subsubsection{Combien y a-t-il de pays dans la base ? }
+\insertcode{commande/5.txt}{count() }
+\subsubsection{Donner les villes dont la population est supérieure à 1 million d’habitants. Combien de villescorrespondent à ce critère?}
 
+\insertcode{commande/6.txt}{}
 
 \end{document}
 

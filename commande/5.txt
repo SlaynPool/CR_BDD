@@ -1,0 +1,10 @@
+MariaDB [world]> SELECT count(Code) FROM country 
+    -> ;
++-------------+
+| count(Code) |
++-------------+
+|         239 |
++-------------+
+1 row in set (0.000 sec)
+
+

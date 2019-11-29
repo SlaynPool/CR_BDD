@@ -1,0 +1,16 @@
+MariaDB [(none)]> USE world
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+MariaDB [world]> SHOW TABLES
+    -> ;
++-----------------+
+| Tables_in_world |
++-----------------+
+| city            |
+| country         |
+| countrylanguage |
++-----------------+
+3 rows in set (0.001 sec)
+

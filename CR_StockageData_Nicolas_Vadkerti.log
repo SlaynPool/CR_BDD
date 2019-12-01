@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  1 DEC 2019 20:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  1 DEC 2019 20:58
 entering extended mode
  \write18 enabled.
  Source specials enabled.
@@ -199,6 +199,21 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks18
+)
 (./CR_StockageData_Nicolas_Vadkerti.aux
 
 LaTeX Warning: Label `fig:paquet' multiply defined.
@@ -206,54 +221,54 @@ LaTeX Warning: Label `fig:paquet' multiply defined.
 )
 \openout1 = `CR_StockageData_Nicolas_Vadkerti.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 49.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count106
+\c@section@level=\count109
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
 
 (./CR_StockageData_Nicolas_Vadkerti.out)
 (./CR_StockageData_Nicolas_Vadkerti.out)
 \@outlinefile=\write3
 \openout3 = `CR_StockageData_Nicolas_Vadkerti.out'.
 
-\c@lstlisting=\count107
+\c@lstlisting=\count110
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen113
+\scratchcounter=\count111
+\scratchdimen=\dimen121
 \scratchbox=\box30
-\nofMPsegments=\count109
-\nofMParguments=\count110
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen114
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
-\everyMPtoPDFconversion=\toks19
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen122
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks20
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -271,22 +286,55 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 54.
 (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 55.
+nput line 60.
  (./commande/1.txt
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
 
@@ -297,12 +345,12 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./commande/2.txt) (./comm
 ande/3.txt
-Overfull \hbox (174.71098pt too wide) in paragraph at lines 2--3
+Overfull \hbox (36.01411pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
 
-Overfull \hbox (174.71098pt too wide) in paragraph at lines 4--5
+Overfull \hbox (36.01411pt too wide) in paragraph at lines 4--5
 [][][][] 
  []
 
@@ -310,32 +358,34 @@ Overfull \hbox (174.71098pt too wide) in paragraph at lines 4--5
 <ressource/1.jpg, id=78, 410.3071pt x 203.59935pt>
 File: ressource/1.jpg Graphic file (type jpg)
 <use ressource/1.jpg>
-Package pdftex.def Info: ressource/1.jpg  used on input line 74.
+Package pdftex.def Info: ressource/1.jpg  used on input line 79.
 (pdftex.def)             Requested size: 328.24612pt x 162.87968pt.
- [2]
-<ressource/2.jpg, id=111, 383.8858pt x 292.18839pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ressource/2.jpg, id=79, 383.8858pt x 292.18839pt>
 File: ressource/2.jpg Graphic file (type jpg)
 <use ressource/2.jpg>
-Package pdftex.def Info: ressource/2.jpg  used on input line 83.
+Package pdftex.def Info: ressource/2.jpg  used on input line 88.
 (pdftex.def)             Requested size: 307.10905pt x 233.751pt.
-<ressource/3.jpg, id=112, 347.36226pt x 303.06775pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ressource/3.jpg, id=80, 347.36226pt x 303.06775pt>
 File: ressource/3.jpg Graphic file (type jpg)
 <use ressource/3.jpg>
-Package pdftex.def Info: ressource/3.jpg  used on input line 88.
+Package pdftex.def Info: ressource/3.jpg  used on input line 93.
 (pdftex.def)             Requested size: 277.89018pt x 242.45451pt.
- [3 <./ressource/1.jpg> <./ressource/2.jpg>] [4 <./ressource/3.jpg>]
-(./commande/5.txt) (./commande/6.txt
-Overfull \hbox (6.40726pt too wide) in paragraph at lines 17--18
-[][][][] 
- []
+[2] [3 <./ressource/1.jpg> <./ressource/2.jpg> <./ressource/3.jpg>]
+(./commande/5.txt) (./commande/6.txt) (./ressource/code.php [4])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+ [5] [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
 
-) (./ressource/code.php [5] [6])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
- (./CR_StockageData_Nicolas_Vadkerti.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+(./CR_StockageData_Nicolas_Vadkerti.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `CR_StockageData_Nicolas_Vadkerti.out' has no
 t changed.
 (rerunfilecheck)             Checksum: FD8BFE08964E12FA1A70A27F6D172334;1390.
@@ -343,13 +393,13 @@ t changed.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 7482 strings out of 492167
- 106344 string characters out of 6131557
- 552469 words of memory out of 5000000
- 11594 multiletter control sequences out of 15000+600000
+ 7929 strings out of 492167
+ 112779 string characters out of 6131557
+ 563586 words of memory out of 5000000
+ 12038 multiletter control sequences out of 15000+600000
  9277 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,7n,51p,394b,2083s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -363,11 +413,11 @@ public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><
 /usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/s
 hare/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on CR_StockageData_Nicolas_Vadkerti.pdf (7 pages, 252165 bytes).
+Output written on CR_StockageData_Nicolas_Vadkerti.pdf (6 pages, 250666 bytes).
 
 PDF statistics:
- 342 PDF objects out of 1000 (max. 8388607)
- 315 compressed objects within 4 object streams
- 185 named destinations out of 1000 (max. 500000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 184 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Pr\351paration \(Installation des outils\)}{}% 1
+\BOOKMARK [1][-]{section.2}{Mise en jambes}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Analyse de la base de test}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Analyser la nature de la base. Combien y a-t-il de tables dans la base?}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Quelles sont les clefs primaire et secondaire des tables}{subsection.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Requetes de Base}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Donner la liste de toutes les villes fran\347aises}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{R\351cup\351rer la liste de toutes les capitales.}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Combien y a-t-il de pays dans la base ? }{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Donner les villes dont la population est sup\351rieure \340 1 million d\220habitants. Combien de villescorrespondent \340 ce crit\350re?}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Faire un script php permettant de g\351n\351rer une page web affichant le r\351sultat d\220une requ\352te sql. Tester le script avec les requ\352tes des questions pr\351c\351dentes. Le template d\220une page webest donn\351 ci-dessous.}{subsection.2.2}% 11
+\BOOKMARK [1][-]{section.3}{Stockage de donn\351es pour l\220IDO}{}% 12

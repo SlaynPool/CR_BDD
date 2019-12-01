@@ -24,8 +24,8 @@ printf("<html>\n");
 
 printf("<head>\n");
 
+printf("<title> Resultat requete SQL </title> \n");
 
-printf("<title>Résultat Requête SQL</title>\n");
 printf("</head>\n");
 printf("<body>\n");
 printf("%s", $Q1);
